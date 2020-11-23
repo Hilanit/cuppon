@@ -1,0 +1,36 @@
+body {
+	font-family: 'Roboto',sans-serif;
+}
+
+.logo-nav {
+	width: 5em;
+}
+
+.logo-footer {
+	width: 6em;
+}
+
+footer p {
+	color: #707070;
+	font-size: 1rem;
+}
+
+i {
+	color: #707070;
+}
+
+h5 {
+	color: #212529;
+}
+
+.row p {
+	color: #707070;
+}
+
+.location p {
+	font-size: 0.8125rem;
+}
+
+.precio-size {
+	font-size: 1.25rem;
+}
